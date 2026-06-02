@@ -1,0 +1,19 @@
+# Gradle template
+.gradle/
+build/
+app/build/
+
+# Local configuration files
+local.properties
+
+# Log files
+*.log
+all.txt
+
+# Android Studio / IntelliJ IDEA templates (If any)
+.idea/
+*.iml
+
+# Device specific files
+.DS_Store
+
